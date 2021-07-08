@@ -121,7 +121,7 @@ Fprofile.current_location.__doc__ = 'Current location of Employees/User'
     """
 
 ***
-> ![My Image](https://github.com/rsriramiyengar/EPAi3-session9-rsriramiyengar/blob/master/images/Image01.JPG)
+> ![My Image](https://github.com/rsriramiyengar/EPAi3-session9-rsriramiyengar/blob/main/images/Image01.JPG)
 ***
 
 We are using python >3.8.3
